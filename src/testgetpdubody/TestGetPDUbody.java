@@ -17,7 +17,7 @@ public class TestGetPDUbody {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello world!");
-        // tro om dette fungerer?
+        // tro om dette fungerer? Endret
     }
     
 }
